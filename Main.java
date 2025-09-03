@@ -1,3 +1,8 @@
+/*
+ * Nombre:Sanabria Ojeda Eduardo Adrian
+ * Matricula:1190241
+ * Practica #2
+ */
 public class Main {
     public static void main(String[] args) {
         Catalogo catalogo = new Catalogo();

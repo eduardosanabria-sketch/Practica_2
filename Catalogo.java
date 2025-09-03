@@ -1,3 +1,8 @@
+/*
+ * Nombre:Sanabria Ojeda Eduardo Adrian
+ * Matricula:1190241
+ * Practica #2
+ */
 import java.util.ArrayList;
 public class Catalogo {
 private ArrayList<Pelicula> peliculas;
